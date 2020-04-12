@@ -1,0 +1,8 @@
+#普通数据
+name: dong-ningbo
+
+#对象数据
+person:
+  name: dong-ningbo
+  age: 27
+  addr: ganyu

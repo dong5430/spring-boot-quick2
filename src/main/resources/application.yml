@@ -1,0 +1,38 @@
+#普通数据
+name: dong
+
+#对象数据
+person:
+  name: dong
+  age: 28
+  addr: ganyu
+
+person2: {name: dong,age: 27,addr: bejin}
+
+#数组(List,Set)
+city:
+  - beijin
+  - tianjin
+  - chongqiang
+
+city2: [beijin,tianjin,shanghai,chongqing]
+
+#集合中的元素是对象形式
+student:
+  - person1:
+      name: dong
+      age: 37
+      addr: ganyu
+  - person2:
+      name: limenfei
+      age: 24
+      addr: henan
+  - person3:
+      name: li
+      age: 34
+      addr: gdaksfd
+
+logging:
+  level:
+    root: info
+  path: loga/myLog

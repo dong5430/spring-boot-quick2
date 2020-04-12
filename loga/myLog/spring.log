@@ -1,0 +1,24 @@
+2020-04-04 12:28:49.912  INFO 8440 --- [main] dong.SpringbootQuick2ApplicationTests    : Starting SpringbootQuick2ApplicationTests on OQMLYFR0XRJS7U2 with PID 8440 (started by Administrator in D:\JavaProject\springboot-quick2)
+2020-04-04 12:28:49.938  INFO 8440 --- [main] dong.SpringbootQuick2ApplicationTests    : No active profile set, falling back to default profiles: default
+2020-04-04 12:28:53.933  INFO 8440 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-04 12:28:53.960  INFO 8440 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-04 12:28:54.144  INFO 8440 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36ms. Found 0 Redis repository interfaces.
+2020-04-04 12:28:59.230  INFO 8440 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-04 12:29:01.999  INFO 8440 --- [main] dong.SpringbootQuick2ApplicationTests    : Started SpringbootQuick2ApplicationTests in 15.129 seconds (JVM running for 20.175)
+2020-04-04 12:29:03.309  INFO 8440 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-04 12:32:32.600  INFO 4140 --- [main] dong.SpringbootQuick2ApplicationTests    : Starting SpringbootQuick2ApplicationTests on OQMLYFR0XRJS7U2 with PID 4140 (started by Administrator in D:\JavaProject\springboot-quick2)
+2020-04-04 12:32:32.603  INFO 4140 --- [main] dong.SpringbootQuick2ApplicationTests    : No active profile set, falling back to default profiles: default
+2020-04-04 12:32:33.879  INFO 4140 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-04 12:32:33.884  INFO 4140 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-04 12:32:33.931  INFO 4140 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2020-04-04 12:32:36.708  INFO 4140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-04 12:32:38.192  INFO 4140 --- [main] dong.SpringbootQuick2ApplicationTests    : Started SpringbootQuick2ApplicationTests in 6.491 seconds (JVM running for 8.382)
+2020-04-04 12:32:38.706  INFO 4140 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-04 12:33:25.556  INFO 4784 --- [main] dong.SpringbootQuick2ApplicationTests    : Starting SpringbootQuick2ApplicationTests on OQMLYFR0XRJS7U2 with PID 4784 (started by Administrator in D:\JavaProject\springboot-quick2)
+2020-04-04 12:33:25.559  INFO 4784 --- [main] dong.SpringbootQuick2ApplicationTests    : No active profile set, falling back to default profiles: default
+2020-04-04 12:33:26.769  INFO 4784 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-04 12:33:26.773  INFO 4784 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-04-04 12:33:26.816  INFO 4784 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2020-04-04 12:33:29.324  INFO 4784 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-04 12:33:30.777  INFO 4784 --- [main] dong.SpringbootQuick2ApplicationTests    : Started SpringbootQuick2ApplicationTests in 6.1 seconds (JVM running for 7.855)
+2020-04-04 12:33:31.400  INFO 4784 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
